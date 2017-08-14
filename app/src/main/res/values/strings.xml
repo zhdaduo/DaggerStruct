@@ -1,0 +1,18 @@
+<resources>
+  <string name="app_name">DaggerStruct</string>
+  <string name="do_something">Do something</string>
+  <string name="example1">example1 : single activity</string>
+  <string name="example2">example2 : activity with mvp</string>
+  <string name="example3">example3 : single fragment</string>
+  <string name="example4">example4 : fragment with mvp</string>
+  <string name="example5_fragment_5b">example5 : fragment 5b whit mvp</string>
+  <string name="example5_fragment_5a">example5 : fragment 5a whit mvp</string>
+  <string name="example6_fragment_parent">example6 : fragment_parent with mvp</string>
+  <string name="example6_fragment_child">example6 : fragment_child with mvp</string>
+  <string name="example_1">Ex1: 1 Activity </string>
+  <string name="example_2">Ex2: 1 Activity with MVP</string>
+  <string name="example_3">Ex3: 1 Activity with 1 Fragment</string>
+  <string name="example_4">Ex4: 1 Activity with ( 1 Fragment with MVP)</string>
+  <string name="example_5">Ex5: 1 Activity with ( 2 Fragment with MVP)</string>
+  <string name="example_6">Ex5: 1 Activity with ( 1 Fragment with childFragment with MVP)</string>
+</resources>
