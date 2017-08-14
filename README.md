@@ -7,3 +7,4 @@ Simple application using Dagger Android (2.11), Butterknife (8.7), and Model-Vie
 - Android injectors.
 
 # DownLoad app
+[![](https://www.pgyer.com/app/qrcode/kEvG)](https://www.pgyer.com/kEvG)
